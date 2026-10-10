@@ -75,16 +75,6 @@ The modeling process focuses on:
 - Establishing appropriate relationships between tables.
 - Supporting consistent calculations across products, stores, regions, and channels.
 
-## 📊 Dashboard Preview
-
-Add screenshots of your actual Excel dashboard below.
-
-![Retail Sales Dashboard](Retail Sales&Profitability Analysis.png)
-
-![Profitability Analysis](images/profitability_analysis.png)
-
-> Replace these image paths with the names and locations of your actual dashboard screenshots in your GitHub repository.
-
 ## 💡 Key Insights to Investigate
 
 The analysis is designed to uncover business insights such as:
