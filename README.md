@@ -15,8 +15,7 @@ The project focuses not only on dashboard creation but also on developing busine
 - **Microsoft Excel** — Data analysis, calculations, and dashboard creation
 - **Power Query** — Data cleaning, transformation, and preparation
 - **Power Pivot** — Data modeling and relationship management
-- **DAX** — Not used in this project; planned for a future project
-
+- **DAX** — In this Project ive calculated all the calculations by uing DAX only not excel-formulas
 ## 🎯 Business Objectives
 
 The analysis focuses on three important business questions:
