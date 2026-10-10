@@ -1,0 +1,53 @@
+                    ***** RETAIL SALES AND PROFITABILITY ANALYSIS USING EXCEL *****
+	
+#Role :I"M a Junior Data Analyst supporting a Multi-store retail business
+
+#Goal : 	Turn raw transaction data into validated analysis, a management dashboard, and actionable recommendations.
+
+#Workflow : Business questions → Data cleaning → Validation →  Analysis → Dashboard → Insights
+
+#Tools : Excel, Power Query, Power Pivot, DAX, PivotTables, charts and business thinking
+
+#Final deliverable : Dashboards +  insights + recommended actions.
+
+#Tables used : 
+              1)Sales
+              2)Customers
+              3)Products 
+              4)Stores
+              5)Employees
+              6)Targets
+
+>>>> At first i didnt know how a retail business work end-to-end because of that ive struggled a bit in understanding the data like in customer table under segments like "SMB" and also in sales tble under channel i didnt aware about marketplace and online sales.
+For that stopped contuining this analysis and took some time to know about retail business End-to-End process 
+after that the way i looked at my analysis is changed alot.
+coz this time i knew how a retail business works,through this proj i take this feedback and whenever im doing another analysis 1st what ill do is i learnt about that business/domain 1st through that everything changes entirely..........
+
+
+>>>>> Used PowerQuery to standardize my data like removing nulls ,wrong values,wrong formats,duplicates,errors and outliers 
+
+
+>>>>> unlike traditional excel analysis ive used DAX for calculations part.
+By using DAX i created the required measures for my analysis like total_sales,total_cost,total_profit,profit_margin,
+no_of_orders etc....
+
+>>>>> Dashboard Design : 
+ive designed this analysis dashboard into 5 pgs
+1) Main pge : 
+             in this ive pasted req KPI's for our analysis,Regionwise ,sales trend,top 10 products,top 10 customers,top 10 employees.
+created 4 HyperLinks for remaining pgs.
+2)Stores drilldown : 
+                    indetail stores analysis.
+3)products drilldown : 
+                      indetail products analysis.
+4)region drilldown : 
+                    indetail region-wise analysis
+5)Customers drilldown :
+                       indetail customers analysis based on the categories
+
+>>>> finally generated some insights for my business queries............
+
+                                                           Thanks for reading my Proj Journey end-toend
+                                                                             
+                                                                                       This Side SK SigningOfff 
+                                                                                                  😎🕺
