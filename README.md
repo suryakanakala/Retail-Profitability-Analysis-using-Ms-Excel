@@ -79,7 +79,7 @@ The modeling process focuses on:
 
 Add screenshots of your actual Excel dashboard below.
 
-![Retail Sales Dashboard](images/retail_sales_dashboard.png)
+![Retail Sales Dashboard](Retail Sales&Profitability Analysis.png)
 
 ![Profitability Analysis](images/profitability_analysis.png)
 
